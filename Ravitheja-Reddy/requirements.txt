@@ -1,0 +1,6 @@
+# Licensed under the MIT License
+streamlit
+requests
+PyMuPDF
+pytesseract
+Pillow
